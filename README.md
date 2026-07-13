@@ -3,5 +3,5 @@
 🌱 I’m currently learning Full Stack Java Development. <br>
 📫 You can reach me at: sreetamasaha2417@protonmail.com, LinkedIn - https://www.linkedin.com/in/sreetama-saha-451bb2219/ <br>
 ➡️ LeetCode Profile - https://leetcode.com/u/sreetamasaha2417/ <br>
-⭐ Hobby - I love Photography, Traveliing. <br>
+⭐ Hobby - I love traveling and learning new things on the Internet. <br>
 I enjoy turning ideas into solutions for everyday problems. 😅
